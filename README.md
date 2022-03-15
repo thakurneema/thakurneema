@@ -1,7 +1,7 @@
 ### Hello and Namaste..!! I am Thakur Neema..!👋
 
 - 🔭 I’m currently working on getting a better job
-- 🌱 I’m currently studying IIIT-H 
+- 🌱 Pursuing Master's at IIIT-H 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about web development related stuff
 - 📫 How to reach me: https://www.linkedin.com/in/thakur-neema/ 
